@@ -1,0 +1,6 @@
+# <- means =
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+?seq()  #?  ask how to use 
+
+library(ggplot2)
+ggplot2::qplot(1:10,1:10)
