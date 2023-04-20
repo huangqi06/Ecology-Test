@@ -131,7 +131,7 @@ fwd_sel <- ordiR2step(rda(spe_hel ~ 1, data = sd_env),
                       pstep = 1000,
                       trace = FALSE)
 fwd_sel$call
-# variables: alt + oxy + bdo
+# variables:alt + oxy + bdo
 
 # new RDA model
 spe_rda_new <- rda(spe_hel ~ alt + oxy + bdo, data = sd_env)
